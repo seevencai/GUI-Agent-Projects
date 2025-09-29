@@ -34,7 +34,7 @@
 | 名称 | 简介 |
 | ---- | ---- |                             |
 | [WebArena](https://github.com/web-arena-x/webarena)              | 独立可自托管的「高保真」Web 环境，提供电商、论坛、代码托管等 4 类真实功能站点及 812 条自然语言任务，支持基于 accessibility-tree 的交互接口与自动正确性校验，已成为 Web Agent 主流 benchmark。 |
-| [AndroidWorld](https://github.com/google-research/android_world) | Google Research 发布的 Android 端任务级评测环境，内置 116 个跨应用任务与可脚本化模拟器，支持函数调用验证，已作为 AndroidAgent 社区事实基准。 
+| [AndroidWorld](https://github.com/google-research/android_world) | Google Research 发布的 Android 端任务级评测环境，内置 116 个跨应用任务与可脚本化模拟器，支持函数调用验证，已作为 AndroidAgent 社区事实基准。 |
 
 ### 集合
 | 名称 | 简介 |
