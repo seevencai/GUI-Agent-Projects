@@ -23,7 +23,7 @@
 | 名称 | 简介 |
 |----|------|
 | [PC-Agent](https://github.com/GAIR-NLP/PC-Agent) | 专注 Windows/macOS 的「离线」桌面助手，强调「While-You-Sleep」长时任务，支持多步骤规划、异常捕获与日记回溯。 |
-| [OS-Atlas](https://osatlas.github.io) | 面向「全场景」的基座动作模型（4B/7B），可将自然语言指令映射为跨平台可执行动作，附带迄今最大 GUI Grounding 数据集（230 万截图 / 1300 万元素）[^11^]。 |
+| [OS-Atlas](https://osatlas.github.io) | 面向「全场景」的基座动作模型（4B/7B），可将自然语言指令映射为跨平台可执行动作，附带迄今最大 GUI Grounding 数据集（230 万截图 / 1300 万元素）。 |
 
 ### Web端
 | 名称 | 简介 |
@@ -32,13 +32,11 @@
 
 ### 环境/框架/数据集/基准
 | 名称 | 简介 |
-|----|------|                             |
-| [WebArena](https://github.com/web-arena-x/webarena)              | 独立可自托管的「高保真」Web 环境，提供电商、论坛、代码托管等 4 类真实功能站点及 812 条自然语言任务，支持基于 accessibility-tree 的交互接口与自动正确性校验，已成为 Web Agent 主流 benchmark。 |
+|----|------|
+| [WebArena](https://github.com/web-arena-x/webarena) | 独立可自托管的「高保真」Web 环境，提供电商、论坛、代码托管等 4 类真实功能站点及 812 条自然语言任务，支持基于 accessibility-tree 的交互接口与自动正确性校验，已成为 Web Agent 主流 benchmark。 |
 | [AndroidWorld](https://github.com/google-research/android_world) | Google Research 发布的 Android 端任务级评测环境，内置 116 个跨应用任务与可脚本化模拟器，支持函数调用验证，已作为 AndroidAgent 社区事实基准。 |
 
 ### 项目集合
 | 名称 | 简介 |
 |----|------|
 | [Awesome-GUI-Agent](https://github.com/showlab/Awesome-GUI-Agent) | ShowLab 维护的「论文 + 代码 + 数据」汇总仓，包含 GUI 定位、动作序列、评测指标等最全资源列表，并支持 arXiv 链接自动格式化。 |
-
-Maintained by **Seeven**.
