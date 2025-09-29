@@ -1,15 +1,15 @@
-# GUI-Agent-Projects
-<!-- 中文版本 -->
-# Awesome GUI Agent  🕹️🤖
+# 图形界面智能体项目 GUI-Agent-Projects🕹️🤖
+<!-- 中文版本 --> 
 
-> 精选的图形界面智能体（GUI Agent）开源项目列表，持续更新，欢迎 PR！
+> 精选的图形界面智能体（GUI Agent）开源项目列表，持续更新。
 
 ## 目录
 - [移动端/跨平台](#移动端跨平台)
 - [桌面端](#桌面端)
 - [Web端](#web端)
 - [环境/框架/数据集/基准](#环境框架数据集基准)
-- [集合](#集合)
+- [项目集合](#项目集合)
+- [论文集合](https://github.com/seevencai/GUI-Agent-Projects/tree/main/papers)
 ---
 
 ### 移动端/跨平台
@@ -32,11 +32,11 @@
 
 ### 环境/框架/数据集/基准
 | 名称 | 简介 |
-| ---- | ---- |                             |
+|----|------|                             |
 | [WebArena](https://github.com/web-arena-x/webarena)              | 独立可自托管的「高保真」Web 环境，提供电商、论坛、代码托管等 4 类真实功能站点及 812 条自然语言任务，支持基于 accessibility-tree 的交互接口与自动正确性校验，已成为 Web Agent 主流 benchmark。 |
 | [AndroidWorld](https://github.com/google-research/android_world) | Google Research 发布的 Android 端任务级评测环境，内置 116 个跨应用任务与可脚本化模拟器，支持函数调用验证，已作为 AndroidAgent 社区事实基准。 |
 
-### 集合
+### 项目集合
 | 名称 | 简介 |
 |----|------|
 | [Awesome-GUI-Agent](https://github.com/showlab/Awesome-GUI-Agent) | ShowLab 维护的「论文 + 代码 + 数据」汇总仓，包含 GUI 定位、动作序列、评测指标等最全资源列表，并支持 arXiv 链接自动格式化。 |
